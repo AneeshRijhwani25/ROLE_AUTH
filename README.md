@@ -90,10 +90,4 @@ root-dir/
    npm start
    ```
 
----
 
-## API Documentation
-
-Refer to the [API Documentation](https://www.postman.com/cryosat-technologist-36387445/2e9770fe-70d5-4845-9b66-520157a7c89b/collection/fq5dlen/vrv-backend) for detailed information on available endpoints, request/response structures, and examples.
-
----
